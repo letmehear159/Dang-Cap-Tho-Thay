@@ -1,0 +1,18 @@
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ Thầy.csproj.AssemblyReference.cache
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Library_Final_Project.CreateNewAccount.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Library_Final_Project.ForgotPassword.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ_Thầy.Properties.Resources.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ Thầy.csproj.GenerateResource.cache
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ Thầy.csproj.CoreCompileInputs.cache
+D:\Visual Studio\WindownForm\Thợ Thầy\bin\Debug\Thợ Thầy.exe.config
+D:\Visual Studio\WindownForm\Thợ Thầy\bin\Debug\Thợ Thầy.exe
+D:\Visual Studio\WindownForm\Thợ Thầy\bin\Debug\Thợ Thầy.pdb
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ Thầy.exe
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ Thầy.pdb
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Library_Final_Project.Login.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Library_Final_Project.PersonalInformation.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Library_Final_Project.ResetPassword.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Library_Final_Project.SetNewPassword.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ_Thầy.Home.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ_Thầy.UserControl2.resources
+D:\Visual Studio\WindownForm\Thợ Thầy\obj\Debug\Thợ_Thầy.Form1.resources
